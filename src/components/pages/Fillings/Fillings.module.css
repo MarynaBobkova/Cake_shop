@@ -1,0 +1,36 @@
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .header {
+    font-family: 'Playball', cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    margin-top: 35px;
+    color: hsl(276, 83%, 42%);
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+    padding: 45px;
+    padding-top: 5px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
