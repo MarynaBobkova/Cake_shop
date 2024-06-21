@@ -27,7 +27,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ania0005.github.io/Online-cake-shop",
   "eslintConfig": {
     "extends": [
       "react-app",
